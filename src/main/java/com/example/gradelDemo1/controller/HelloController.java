@@ -12,7 +12,7 @@ public class HelloController {
 	
 	@GetMapping("/hello")
 	public String CreateUser() {
-		return "Rahul is created";
+		return "Rahul Patel is created";
 	}
 
 }
